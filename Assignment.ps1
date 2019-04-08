@@ -63,5 +63,3 @@ $b=$()
 $myArray="Ramesg is s s  s sgsadf sdf dsf s sdf d s".Split(" ")
 #$myArray | ForEach-Object{ Write-Host $_}
 $myArray | Where-Object { $_ -match 's' }
-
-n
